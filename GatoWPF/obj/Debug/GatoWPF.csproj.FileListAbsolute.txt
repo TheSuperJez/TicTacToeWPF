@@ -1,0 +1,68 @@
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe.config
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.pdb
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csprojResolveAssemblyReference.cache
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\MainWindow.baml
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\MainWindow.g.cs
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\App.g.cs
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF_MarkupCompile.cache
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.g.resources
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.Properties.Resources.resources
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csproj.GenerateResource.Cache
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.exe
+F:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.pdb
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe.config
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.exe
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.pdb
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.pdb
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csprojResolveAssemblyReference.cache
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\MainWindow.baml
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\MainWindow.g.cs
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\App.g.cs
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF_MarkupCompile.cache
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.g.resources
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.Properties.Resources.resources
+E:\Desarrollo\Visual Studio 2010\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csproj.GenerateResource.Cache
+N:\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe.config
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.exe
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.pdb
+N:\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe
+N:\GatoWPF\GatoWPF\bin\Debug\GatoWPF.pdb
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csprojResolveAssemblyReference.cache
+N:\GatoWPF\GatoWPF\obj\Debug\MainWindow.baml
+N:\GatoWPF\GatoWPF\obj\Debug\MainWindow.g.cs
+N:\GatoWPF\GatoWPF\obj\Debug\App.g.cs
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF_MarkupCompile.cache
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.g.resources
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.Properties.Resources.resources
+N:\GatoWPF\GatoWPF\obj\Debug\GatoWPF.csproj.GenerateResource.Cache
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.exe
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.pdb
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\bin\Debug\resources.pri
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\bin\Debug\AppxManifest.xml
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\bin\Debug\GatoWPF.build.appxrecipe
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\App.g.i.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\App.g.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\Common\StandardStyles.g.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\MainPage.g.i.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\MainPage.g.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\XamlTypeInfo.g.cs
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\App.xaml
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\Common\StandardStyles.xaml
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\MainPage.xaml
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.exe
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\GatoWPF.pdb
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\priconfig.xml
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\priconfig.xml.intermediate
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\layout.resfiles
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\layout.resfiles.intermediate
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\resources.resfiles
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\resources.resfiles.intermediate
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\pri.resfiles
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\pri.resfiles.intermediate
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\qualifiers.txt
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\qualifiers.txt.intermediate
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Desarrollo\Visual Studio 2013\Projects\GatoWPF\GatoWPF\obj\Debug\ProjectArchitectures.txt

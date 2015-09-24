@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    ESTE ARCHIVO DE MANIFIESTO DEL PAQUETE SE GENERA MEDIANTE EL PROCESO DE COMPILACIÓN.
+
+    Los cambios realizados en el archivo se perderán al regenerarlo. Para corregir los errores de este archivo, edite el archivo de origen .appxmanifest.
+
+    Para obtener más información acerca de los archivos de manifiesto del paquete, vea http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="01d04e8c-0c36-47be-b152-87ce4fa90d90" Publisher="CN=test" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>GatoWPF</DisplayName>
+    <PublisherDisplayName>test</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="ES-ES" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="GatoWPF.exe" EntryPoint="GatoWPF.App">
+      <VisualElements DisplayName="GatoWPF" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="GatoWPF" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5" />
+    <build:Item Name="VisualStudio" Version="12.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
+    <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.21005.1" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.80.Build.Tasks.dll" Version="12.0.21005.1" />
+    <build:Item Name="MakePri.exe" Version="6.2.9200.20789 (win8_ldr.130802-1617)" />
+  </build:Metadata>
+</Package>
